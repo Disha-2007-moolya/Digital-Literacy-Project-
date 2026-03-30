@@ -37,10 +37,10 @@ In this module, I studied real-world cybercrime cases and analyzed different typ
 
 ## Repository Structure
 - `task-1-presentation/` → Infographic  
-- `task-2-portfolio/` → Profile screenshots  
-- `task-3-platform/` → Coding + Google Form  
+- `task-2-portfolio/` → Profile screenshots + Reflection 
+- `task-3-platform/` → Coding + Google Form + Notes
 - `task-4-email-etiquette/` → Emails + Checklist  
-- `task-5-cybercrime/` → Case study + Prevention tips  
+- `task-5-cybercrime/` → Case study + Prevention tips + Reflection 
 - `report/` → Final project report  
 
 ---
